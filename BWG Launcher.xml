@@ -1,0 +1,61 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BWG Launcher
+</name>
+</assembly>
+<members>
+<member name="T:BWG_Launcher.My.Resources.Resources">
+<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member>
+<member name="P:BWG_Launcher.My.Resources.Resources.ResourceManager">
+<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member>
+<member name="P:BWG_Launcher.My.Resources.Resources.Culture">
+<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member>
+<member name="P:BWG_Launcher.My.Resources.Resources.discord1">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BWG_Launcher.My.Resources.Resources.index">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:BWG_Launcher.Helpers">
+ <summary>
+ MetroDisk
+ Created by: iSynthesis (HF)
+ Modified by: King Aldrin
+ Version: 1.0.6
+ Date Crafted: 26/01/2014
+ Email: king.aldrin31@gmail.com
+ For any bugs / errors, PM me.
+ </summary>
+ <remarks></remarks>
+ to remove the text, goto line 99
+</member>
+<member name="F:BWG_Launcher.MDAlertBox.W">
+ <summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:BWG_Launcher.MDAlertBox.H">
+ <summary>
+ How to use: FlatAlertBox.ShowControl(Kind, String, Interval)
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
